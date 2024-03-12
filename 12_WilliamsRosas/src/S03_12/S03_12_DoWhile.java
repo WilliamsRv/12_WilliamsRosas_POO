@@ -17,7 +17,7 @@ public class S03_12_DoWhile {
            int a = 100;         
             do{
                 
-            System.out.println("hola");
+            System.out.println("hola1");
             
             } while(a == 200);
         
