@@ -22,7 +22,7 @@ public class S03_12_Array {
         
         System.out.println(numeros[2]);
         
-        int [] numeros2 = {10, 20, 30, 40, 50, 60};
+        int [] numeros2 = {10, 20, 30, 40, 50, 60, 70};
         
         System.out.println(numeros2[2]);
         
