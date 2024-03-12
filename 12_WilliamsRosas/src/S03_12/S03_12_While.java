@@ -15,7 +15,7 @@ public class S03_12_While {
            
            while(a <10){
            
-               System.out.println("hola");
+               System.out.println("hola2");
                a++;
            }
                  
