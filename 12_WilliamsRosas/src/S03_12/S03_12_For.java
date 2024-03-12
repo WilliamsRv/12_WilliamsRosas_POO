@@ -19,7 +19,7 @@ public class S03_12_For {
         
         for(int i = 0;i <= 10;i++){
             
-            System.out.println("hola");
+            System.out.println("holas");
             
         }
         
