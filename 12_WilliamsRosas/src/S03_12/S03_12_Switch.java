@@ -21,7 +21,7 @@ public class S03_12_Switch {
                 System.out.println("opcion 1");
                 break;
             case 2:
-                System.out.println("ocion 2");
+                System.out.println("ocion 3");
                 break;
             default:
                 System.out.println("no encontre las opciones");
